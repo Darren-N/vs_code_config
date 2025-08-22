@@ -1,0 +1,68 @@
+    "mssql.resultsFontFamily": "Consolas",
+    "mssql.resultsFontSize": 14,
+    "editor.columnSelection": false,
+    "npm.enableRunFromFolder": true,
+    "mssql.enableQueryHistoryCapture": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.largeFileOptimizations": false,
+    "glassit.alpha": 205,
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "VT323-Regular",
+    "workbench.startupEditor": "newUntitledFile",
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.acceptSuggestionOnEnter": "off",
+    "window.menuBarVisibility": "toggle",
+    "window.titleSeparator": "---",
+    "mssql.applyLocalization": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "files.associations": {
+        "*.rmd": "markdown"
+    },
+    "r.linting.enable": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "synthwave84.brightness": 0.6,
+    "workbench.colorTheme": "Bearded Theme Monokai Stone",
+    "explorer.confirmDragAndDrop": false,
+    "git.enableSmartCommit": true,
+    "git.openRepositoryInParentFolders": "never",
+    "update.showReleaseNotes": false,
+    "workbench.editor.empty.hint": "hidden",
+    "editor.fontSize": 16,
+    "remote.SSH.remotePlatform": {
+        "192.168.0.106": "linux"
+    },
+    "security.allowedUNCHosts": [
+        "vrt-sqlstan"
+    ],
+    "mssql.enableRichExperiences": true,
+    "workbench.sideBar.location": "right",
+    "accessibility.verbosity.keybindingsEditor": false,
+    "chat.commandCenter.enabled": false,
+    "workbench.activityBar.location": "bottom",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.editor.showTabs": "single",
+    "editor.hideCursorInOverviewRuler": true,
+    "scm.diffDecorations": "none",
+    "mssql.openQueryResultsInTabByDefault": true,
+    "mssql.openQueryResultsInTabByDefaultDoNotShowPrompt": true,
+    "git.confirmSync": false,
+    "mssql.connectionGroups": [
+        {
+            "name": "ROOT",
+            "id": "8A53E706-E250-4E5E-A6D7-EECE680E832F"
+        }
+    ],
+    "r.session.data.rowLimit": 1000,
+    "chat.sendElementsToChat.attachCSS": false,
+    "chat.sendElementsToChat.attachImages": false,
+    "chat.sendElementsToChat.enabled": false
+
+}
